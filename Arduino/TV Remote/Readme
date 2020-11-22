@@ -1,0 +1,5 @@
+This is a simple program that allows you to use your TV remote control to turn on and off any device of your choice. 
+It needs a simple IR receiver
+First, use IR test to find the value from specific button from the Remote
+Next, use IR remote to use the program to switch relay using the code from first program. 
+Uses : Arduino UNO
